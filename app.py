@@ -1,4 +1,3 @@
-from browser import document, alert  # Import Library Brython 
 import math
 
 # Deklarasi Variable
